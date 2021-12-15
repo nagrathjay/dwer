@@ -1,4 +1,4 @@
-######################################  Home Page Objects ###########
+######################################  Home Page Objects #############
 
 application_Create = .//*[@id="EntityListControl"]/div/div/div/div[1]/div/div/a/span
 application_Dropdown = .//*[contains(@title, 'My Applications (placeholder')]
